@@ -1,0 +1,6 @@
+com\bone\API\controller\ClienteController.class
+com\bone\API\service\ClienteService.class
+com\bone\API\ApiApplication.class
+com\bone\API\modelo\Clientes.class
+com\bone\API\repository\ProductoRepository.class
+com\bone\API\repository\ClienteRepository.class
